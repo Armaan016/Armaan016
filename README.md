@@ -15,7 +15,7 @@
   - **GitHub**: [Armaan016](https://github.com/Armaan016)
   - **LeetCode**: [Armaan_016](https://leetcode.com/u/Armaan_016/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve secured top ranks in various competitive exams and led my team to an impressive 8th position out of 80+ teams in an internal hackathon at college. Also, I’m always up for a good game of cricket, whether on the field or building applications around it!
+- ⚡ Fun fact: I’ve led my house in 10th grade to the "Best House" trophy, and also led my team to an impressive 8th position out of 80+ teams in an internal hackathon at college. Also, I’m always up for a good game of cricket, whether on the field or building applications around it!
 
 <!---
 Armaan016/Armaan016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
