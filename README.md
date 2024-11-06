@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohammed Armaan Uddin!
 
 - 🌍 I'm a passionate software developer with a strong background in **Python, C, C++, Java, HTML, CSS, JavaScript,** and **SQL**.
-- 🎓 I'm currently pursuing a **B.Tech in Computer Science (AI & ML)** at **Keshav Memorial Institute of Technology, Hyderabad**, with a **CGPA of 9.47/10**.
+- 🎓 I'm currently pursuing a **B.Tech in Computer Science (AI & ML)** at **Keshav Memorial Institute of Technology, Hyderabad**, with a **CGPA of 9.37/10**.
 - 🌱 I’m currently learning advanced **AI & Machine Learning techniques** while deepening my knowledge in **Full-Stack Development** with the **MERN stack**.
 - 👀 I’m interested in cutting-edge technologies, especially those that intersect with **Artificial Intelligence, Machine Learning, and Data Science**. I'm also fascinated by **web development** and **cybersecurity**.
 - 💼 I've built several projects, including:
